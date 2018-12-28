@@ -45,7 +45,7 @@
 				<configuration>
 				
 					<suiteXmlFiles>
-						<suiteXmlFile>src\test\java\com\syntax\reviewproject\test\resources\testng.xml</suiteXmlFile>
+						<suiteXmlFile>reviewproject\testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 					
 				</configuration>
